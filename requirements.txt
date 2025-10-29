@@ -1,0 +1,7 @@
+jsonschema>=4.0.0
+tqdm>=4.60.0
+orjson>=3.8.0
+google-generativeai>=0.3.0
+pyarrow>=10.0.0
+requests>=2.25.0
+datasets>=2.0.0
