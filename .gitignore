@@ -58,5 +58,3 @@ logs/
 # Large data files (excluded from repository)
 data/1_raw/*.json
 data/1_raw/*.jsonl
-data/2_converted/*.jsonl
-data/4_filled/*.jsonl
